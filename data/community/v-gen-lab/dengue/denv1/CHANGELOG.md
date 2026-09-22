@@ -1,3 +1,8 @@
+## Unreleased
+
+- 2026 Annual update: added new lineages to the classification system as determined by the scientific committee.
+- Updated representative tree sequences to retain only publicly available data and to avoid assignment errors
+
 ## 2026-04-14T11:55:23Z
 
 - Move `placementMaskRanges` to tree.json
